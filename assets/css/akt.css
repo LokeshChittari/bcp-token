@@ -1,0 +1,6 @@
+.date_cr{width: 80px; height: 80px; border-radius: 50px; background-color: #54b6e7; padding: 10px}
+.date_cr h4{text-align: center; color: #FFF; font-size: 18px; font-weight: 600;
+	background-clip: padding-box;
+	line-height: 40px;
+}
+.dy{font-size: 14px; font-weight: 600; margin-left: 14px; color: #212121;}
